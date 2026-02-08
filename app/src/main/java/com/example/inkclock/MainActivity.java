@@ -13,6 +13,8 @@ import java.util.Locale;
 public class MainActivity extends Activity {
 
     // prosta zmiana by sprawdzić gita
+    // druga prosta zmiana by sprawdzić czy mogę
+    // zsynchronizować ten projekt z android studio
 
     private TextView tvDateTime;
     private AnalogClockView clockView;
